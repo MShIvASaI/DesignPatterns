@@ -1,6 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# can you provide me an example of SIngleton Design pattern in Cpp and variations of questions on this in interviews
 
 Here is a standard example of the Singleton Design Pattern in modern C++, along with typical interview questions and their variations on this topic.
 
