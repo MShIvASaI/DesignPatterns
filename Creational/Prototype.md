@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# can you provide me an example of \Prototype Design pattern in Cpp and variations of questions on this in interviews
-
 Here is a clear example of the Prototype Design Pattern in C++ with concise code and typical interview questions you may face.
 
 ### Prototype Design Pattern Example in C++
